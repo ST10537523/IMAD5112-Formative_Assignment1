@@ -1,0 +1,39 @@
+# This file was added to automatically build my app when I push the code to GitHub
+# I tried to follow the guide from the IMAD5112 module manual as best as I can, to set this up
+# This will check if my app works on other computers besides mine
+
+name: Building The Social Sparks App
+
+# This will tell GitHub when to run the code
+# It will run every time I push new code to the main branch
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+# These are the steps GitHub will follow to build my app
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1 - Get the code from the repository
+      - name: Get the code
+        uses: actions/checkout@v3
+
+      # Step 2 - Install Java because Android apps need Java to build
+      - name: Install Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+          cache: gradle
+
+      # Step 3 - Give permission to run the gradle build tool
+      - name: Give gradle permission to run
+        run: chmod +x gradlew
+
+      # Step 4 - Actually build my app to make sure it compiles
+      - name: Build the app
+        run: ./gradlew build
