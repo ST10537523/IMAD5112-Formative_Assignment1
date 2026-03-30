@@ -93,9 +93,9 @@ means everything is working correctly.
 
 ## Demo video
 
-Watch me demonstrate all the features of the app here:
+Here's a quick demonstration of all the features of the app here:
 
- [PASTE YOUR YOUTUBE LINK HERE]
+ [https://youtu.be/fqWtjK5fypk)]
 
 ---
 
