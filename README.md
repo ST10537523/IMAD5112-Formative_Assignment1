@@ -101,7 +101,7 @@ Watch me demonstrate all the features of the app here:
 
 ## Emulator Screenshot
 
-![App Screenshot](PASTE_SCREENSHOT_URL_HERE)
+![App Screenshot](https://github.com/ST10537523/IMAD5112-Formative_Assignment1/blob/main/Screenshot_20260330_190042.png?raw=true)
 
 ---
 
@@ -111,19 +111,19 @@ Watch me demonstrate all the features of the app here:
   Johannesburg: IIE.
   
 - Android Developer Documentation. 2024. *Build your first app*. 
-  Available at: https://developer.android.com/training/basics/firstapp 
+  Available at: [https://developer.android.com/training/basics/firstapp] 
   [Accessed: 27 March 2026]
   
 - Kotlin Foundation. 2024. *Kotlin Documentation*. 
-  Available at: https://kotlinlang.org/docs/home.html 
+  Available at: [https://kotlinlang.org/docs/home.html] 
   [Accessed: 28 March 2026]
 
 - Easy Tuto. 2024. *Simple Kotlin App | Android Studio*
-  Available at: https://www.youtube.com/watch?v=XLt_moCoauw
+  Available at: [https://www.youtube.com/watch?v=XLt_moCoauw]
   [Accessed: 27 March 2026]
 
 - DJ Malone. 2021. *Android Studio Tutorial (2021 edition) - Part 1&2*
-  Available at: https://www.youtube.com/watch?v=kMI2jy-WlGM
+  Available at: [https://www.youtube.com/watch?v=kMI2jy-WlGM]
   [Accessed: 29 March 2026]
 ```
 
