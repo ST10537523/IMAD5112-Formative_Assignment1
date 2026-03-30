@@ -5,7 +5,7 @@
 
 ## App Info
 
-I created this app for my IMAD5112 assignment 1. The idea came from the 
+I created this app for my IMAD5112 Formative-Assignment 1. The idea came from the 
 assignment background where the friend, Cora struggles to stay socially connected 
 during busy days. I figured it would be cool to build something that gives 
 her quick and easy suggestions based on what time of the day it is.
@@ -125,12 +125,9 @@ Here's a quick demonstration of all the features of the app here:
 - DJ Malone. 2021. *Android Studio Tutorial (2021 edition) - Part 1&2*
   Available at: [https://www.youtube.com/watch?v=kMI2jy-WlGM]
   [Accessed: 29 March 2026]
-```
 
----
-
-## After Pasting
-
-1. Scroll down and write this commit message:
-```
-Add detailed README file for Social Sparks app
+- Anthropic. 2026. Claude AI (Version Claude Sonnet 4.6) [Large Language Model]. 
+  Available at: https://claude.ai
+  [Accessed: 30 March 2026].
+  ```
+  Thank You!
